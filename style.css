@@ -138,8 +138,9 @@ body{
 .backgFooter2{
     background-color: rgb(236, 218, 211);
 }
+
 .contectMe{
-    padding: 15px;
+    margin-bottom: 0;
 }
 
 
